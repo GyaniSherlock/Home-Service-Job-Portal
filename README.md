@@ -6,10 +6,10 @@ Django Job Portal.
 
 ```
 open terminal and type
-https://github.com/Sany07/Job-Portal.git
+https://github.com/GyaniSherlock/Home-Service-Job-Portal.git
 
 or simply download using the url below
-https://github.com/Sany07/Job-Portal.git
+https://github.com/GyaniSherlock/Home-Service-Job-Portal.git
 ```
 
 ## Install requirements
